@@ -1,0 +1,28 @@
+canonical_identifier: bkk:krp/KR6w0022/v1
+canonical_location: https://kanripo.org/bkk/KR6w0022/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 成實論義記（存卷中　前殘）
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/D/D22/D22n8874.xml
+    old_id: D22n8874
+  edition:
+    short: bkk
+editions:
+- short: 國圖
+  label: 國圖
+  source_xml_id: wit.orig
+- short: D
+assets:
+  parts:
+  - {seq: 0, filename: KR6w0022_000.yaml, hash: 'sha256:588271468df2e128d60b268c05eb18ba4c1ae2d6c8bb0dfac51ea7a4867ee0ff'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6w0022_000.markers.yaml, hash: 'sha256:f91c5ca7b78227f3682625dfe1f78586ba2e65b841ca40ecf2499a2c0242a20c'}
+table_of_contents: []
+hash: sha256:cb829ebf494f1f50b1b56a45f22a131930d6c6ce515e1f1357a8eebd1c8509f2
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

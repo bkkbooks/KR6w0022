@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR6w0022/D/v1
+canonical_location: https://kanripo.org/bkk/KR6w0022/D/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 成實論義記（存卷中　前殘）
+  identifiers:
+    krp: KR6w0022
+    cbeta: D22n8874
+    cbeta_old_id: D22n8874
+    authorityid: CA0008021
+    json_key: D8874
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/D/D22/D22n8874.xml
+    old_id: D22n8874
+  edition:
+    short: D
+assets:
+  parts:
+  - {seq: 0, filename: KR6w0022_000-D.yaml, hash: 'sha256:124028a48f2204d58b94dfea7af6e6767e3a8fb66ec661d93b162433cfe8f71f'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6w0022_000-D.markers.yaml, hash: 'sha256:dd013df8f827ee169bcaa75ef8d4c9656ceeb22f96d17d60ce0d0b0657d141a1'}
+table_of_contents: []
+hash: sha256:376682b68de82cd40d706769d73978f17bb7b8345236e517e1772ce7ae97026b
