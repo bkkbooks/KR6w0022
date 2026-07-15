@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6w0022/v1
 canonical_location: https://kanripo.org/bkk/KR6w0022/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 成實論義記（存卷中　前殘）
   source:
@@ -18,8 +18,11 @@ editions:
 - short: D
 assets:
   parts:
-  - {seq: 0, filename: KR6w0022_000.yaml, hash: 'sha256:124028a48f2204d58b94dfea7af6e6767e3a8fb66ec661d93b162433cfe8f71f'}
+  - {seq: 0, filename: KR6w0022_000.yaml, hash: 'sha256:4f1498508cb9e945049775ce8b258d06847666d7df4348d956b068c27479d359'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6w0022_000.markers.yaml, hash: 'sha256:f28617abd6dc84ca2779550e858688a9a7f14ec6a4f4f7a1874281de9bce821a'}
+  - {seq: 0, role: markers, filename: assets/KR6w0022_000.markers.yaml, hash: 'sha256:890874bbb30f84727f34d8f17a829c31ef515a7e6ce813af44d0f1a3c85ec4f7'}
 table_of_contents: []
-hash: sha256:7bf090347ccd292a5f381872249dc161e6664a22236f137f09d4865999d7295d
+hash: sha256:b7b0976ec522312102e78cff682b28405d68794d72d06942fbbaeb6fcb6e554d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
